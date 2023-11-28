@@ -55,8 +55,8 @@
    <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/gabrieljssantos/bertoti/blob/main/metodologiaCientifica/2Semestre.md">2º Semestre</a></li></p>
    <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/gabrieljssantos/bertoti/blob/main/metodologiaCientifica/3Semestre.md">3º Semestre</a></li></p>
    <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/gabrieljssantos/bertoti/blob/main/metodologiaCientifica/4Semestre.md">4º Semestre</a></li></p>
-   <p align="justify" style="font-family:roboto;"><li><a href="##">5º Semestre - Em Desenvolvimento 👨🏻‍💻️</a></li></p>
-   <p align="justify" style="font-family:roboto;"><li><a href="##">6º Semestre - Em Desenvolvimento 👨🏻‍💻</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/gabrieljssantos/bertoti/blob/main/metodologiaCientifica/5Semestre.md">5º Semestre</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/gabrieljssantos/bertoti/blob/main/metodologiaCientifica/6Semestre.md">6º Semestre</a></li></p>
 
 </body>
 </html>
