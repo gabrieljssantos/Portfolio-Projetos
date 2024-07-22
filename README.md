@@ -4,11 +4,10 @@ Trabalho de graduação na modalidade Portfólio dos projetos realizados com a m
 
 ## Autor ![Autor](https://img.shields.io/badge/-Autor-blue)
 
-Olá! Sou Gabriel Santos, tenho 21 anos e atualmente estou cursando o 6º semestre de Banco de dados na [FATEC São José dos Campos - Prof. Jessen Vidal](https://fatecsjc-prd.azurewebsites.net/). Formado também com Técnico em informática na [ETEC Professora Ilza Nascimento Pintus](https://www.etecsjcampos.com.br/).
+Olá! Sou Gabriel Santos, e atualmente estou cursando o 6º semestre de Banco de dados na [FATEC São José dos Campos - Prof. Jessen Vidal](https://fatecsjc-prd.azurewebsites.net/). Formado também com Técnico em informática na [ETEC Professora Ilza Nascimento Pintus](https://www.etecsjcampos.com.br/).
 
 Durante a consecução do curso na Fatec, obtive novos conhecimentos de tecnologias, metodologias, ferramentas e melhores práticas no âmbito do desenvolvimento. Através da implementação da metodologia de Aprendizagem por Projetos Integrados, fui facultado com a oportunidade de efetivar a aplicação dos conteúdos assimilados em sala de aula, bem como conceber soluções para desafios verídicos no contexto do mercado de trabalho, tendo como destinatárias empresas legítimas que eram parceiras da instituição de ensino.
 
-Atualmente trabalho na [Descomplica](https://www.linkedin.com/school/descomplica/), como Web Analytics Engineer. Como um web analytics engineer, minha função envolve a implementação e administração de ferramentas de análise de dados, como Mixpanel, Google Tag Manager (GTM) e Google Analytics 4 (GA4), enquanto utilizo SQL e BigQuery para coletar, processar e extrair insights valiosos dos dados do site.
 
 <br>
 <p align="center">
